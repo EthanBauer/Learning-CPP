@@ -21,7 +21,7 @@ I created the following curriculum using chatgpt
         * Call both member functions on the object and print the output.
         * Demonstrate the concepts of encapsulation and polymorphism.
 
----<br>
+<br>
 
     Day 2: C++ Basics
     Resources: 
