@@ -9,7 +9,7 @@ I created the following curriculum using chatgpt
 
     Resources:
     https://www.youtube.com/watch?v=vLnPwxZdW4Y - This video tutorial covers the basics of C++ programming language including data types, variables, control structures, and functions.
-    It also introduces object-oriented programming concepts such as classes, objects, encapsulation, inheritance, and polymorphism.<br>
+    It also introduces object-oriented programming concepts such as classes, objects, encapsulation, inheritance, and polymorphism.
 
 
 
@@ -20,7 +20,7 @@ I created the following curriculum using chatgpt
         * Create an object of the class and set its data members using user input.
         * Call both member functions on the object and print the output.
         * Demonstrate the concepts of encapsulation and polymorphism.
----<br>
+
 
     Day 2: C++ Basics
     Resources: 
