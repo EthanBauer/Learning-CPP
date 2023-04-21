@@ -15,12 +15,13 @@ It also introduces object-oriented programming concepts such as classes, objects
 
 
 Project:<br>
-Create a simple C++ program that demonstrates the basic concepts of OOP.<br>
+Create a simple C++ program that demonstrates the basic concepts of OOP.<br><br>
+
 Requirements:<br>
-    * Define a class with at least two data members and two member functions.
-    * Create an object of the class and set its data members using user input.
-    * Call both member functions on the object and print the output.
-    * Demonstrate the concepts of encapsulation and polymorphism.
+* Define a class with at least two data members and two member functions.
+* Create an object of the class and set its data members using user input.
+* Call both member functions on the object and print the output.
+* Demonstrate the concepts of encapsulation and polymorphism.
 
 ---
 
