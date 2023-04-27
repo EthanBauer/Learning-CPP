@@ -3,6 +3,7 @@
         "*.ejs": "html",
         "*.js": "javascript",
         "iostream": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "ios": "cpp"
     }
 }
